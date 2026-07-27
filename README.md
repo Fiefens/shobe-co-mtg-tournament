@@ -1,9 +1,10 @@
 # shobe-co-mtg-tournament
 An MTG Tournament Round Constructor and Mentorship-Based Matchmaker
 
-Tournament Organizer — User Guide
+Tournament Organizer - User Guide
 
 1. Add Players
+
 Go to the Players tab.
 Type a name and click + Add.
 Click the colored dots to set each player's T (Temperament) and S (Skill):
@@ -13,18 +14,20 @@ Blue = Cool / Advanced
 Click a player's name to rename them, or x to delete.
 
 2. Start a Tournament
+
 Go to the New Tournament tab.
-Select Players — check the box next to each player playing.
-Format — pick one, or use the recommended (★) format:
-Duel — 1v1
-Round Robin — everyone plays everyone
-Bracket — single loss moves you to the Losers Bracket; lose there and you're out (double elimination)
-Swiss — paired by record each round, no eliminations
-Matchmaking Mode (4+ players) — Mentorship pairs beginners with players who will be more useful; Competitive is random/standard pairing.
-Match Clock — set minutes per round.
+Select Players - check the box next to each player playing.
+Format - pick one, or use the recommended (★) format:
+Duel - 1v1
+Round Robin - everyone plays everyone
+Bracket - single loss moves you to the Losers Bracket; lose there and you're out (double elimination)
+Swiss - paired by record each round, no eliminations
+Matchmaking Mode (4+ players) - Mentorship pairs beginners with players who will be more useful; Competitive is random/standard pairing.
+Match Clock - set minutes per round.
 Click Start Tournament.
 
 3. Running Rounds
+
 On the round screen:
 Use Start / Pause / Reset to run the match clock.
 For each pairing, click the winner (or Draw, if allowed).
@@ -33,10 +36,11 @@ Once all matches are reported, click Submit Round & Continue.
 End Tournament finishes it early and locks in standings as-is.
 
 4. Results & Archive
+
 When the tournament ends, the Results screen shows the champion and final standings.
 Click Start New Tournament to begin another.
-Click View Archive (or the Archive tab) anytime to see past tournaments — click one to expand full standings.
-That's it — add players, start a tournament, report winners each round, repeat.
+Click View Archive (or the Archive tab) anytime to see past tournaments - click one to expand full standings.
+That's it - add players, start a tournament, report winners each round, repeat.
 
 
 
